@@ -1,0 +1,12 @@
+{
+  "sheet": {
+    "entry": "./sheet/main.ejs"
+  },
+  "css": {
+    "entry": "./style/main.scss"
+  },
+  "scripts": {
+    "entry": "./scripts/main.ts"
+  },
+  "rolltemplates": []
+}
